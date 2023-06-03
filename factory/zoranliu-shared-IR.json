@@ -1,0 +1,15 @@
+{
+	"name": "zoranliu-shared-IR",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned,UserAssigned",
+		"principalId": "867f9a2a-d661-4c10-9686-fbd630119a8e",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+		"userAssignedIdentities": {
+			"/subscriptions/eecfb6ee-86f1-45e1-bb7e-1f5b6bdf3951/resourcegroups/ADMS_UX_TEST/providers/Microsoft.ManagedIdentity/userAssignedIdentities/zoranliu-uami": {
+				"clientId": "b25e20f0-a585-4dd6-8d38-2ee7b9e65078",
+				"principalId": "b1a92498-94e4-4475-9206-af7481a17fc1"
+			}
+		}
+	}
+}
